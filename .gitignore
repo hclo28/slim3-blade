@@ -1,2 +1,4 @@
 *.swp
-vendor/
+app/vendor/
+app/Cache/*
+!.gitkeep
